@@ -1,8 +1,9 @@
-<div align="center">
+<img src="https://files.catbox.moe/f6jmdi.png"
+     align="left"
+     width="180"
+     alt="shuriken">
 
-<img src="https://files.catbox.moe/f6jmdi.png" width="180" alt="shuriken" align="center">
-
-<table>
+<table align="left">
   <tr>
     <td>
       ally.⠀16yo⠀brazilian⠀faglesbo <br>
@@ -19,9 +20,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://komarev.com/ghpvc/?username=retrobive&style=flat-square&color=green&label=visitors" alt="visitors">
+      <img src="https://komarev.com/ghpvc/?username=retrobive&style=flat-square&color=green&label=thieves">
     </td>
   </tr>
-</table>
-
-</div>
+        </table>
