@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**zenkowa/zenkowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://files.catbox.moe/f6jmdi.png" align="left" width="250" alt="shuriken">
+<table>
+    <tr>
+      <td>
+     ally.⠀16yo⠀brazilian⠀faglesbo <br>
+     any⠀prns⠀small⠀he/she⠀pref <br>
+     shuri⠀yumekin⠀&⠀main⠀(5/12/16)<br>
+      </td>
+    </tr>
+  </table>
