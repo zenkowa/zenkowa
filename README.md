@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://komarev.com/ghpvc/?username=retrobive&style=flat-square&color=green&label=visitors" alt="thiefs">
+      <img src="https://komarev.com/ghpvc/?username=zenkowa&style=flat-square&color=green&label=thieves" alt="thieves">
     </td>
   </tr>
 </table>
