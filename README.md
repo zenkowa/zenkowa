@@ -9,5 +9,8 @@
       </td>
     </tr>
   </table>
-
-  [rentry](https://rentry.co/retrobive)⠀&⠀[main acc](https://github.com/retrobive) 
+<p align="center>
+  <a href="https://rentry.co/retrobive">rentry</a>
+⠀&⠀
+    <a href="https://github.com/retrobive">main acc</a>
+</p>
