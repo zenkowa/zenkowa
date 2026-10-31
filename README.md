@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/f6jmdi.png" width="180" alt="shuriken" align="left">
+<img src="https://files.catbox.moe/f6jmdi.png" width="180" alt="shuriken" align="center">
 
 <table>
   <tr>
