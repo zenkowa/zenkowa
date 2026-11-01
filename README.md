@@ -6,9 +6,9 @@
 <table align="left">
   <tr>
     <td>
-      ally.⠀16yo⠀brazilian⠀faglesbo <br>
-      any⠀prns⠀small⠀he/she⠀pref <br>
-      shuri⠀yumekin+⠀main⠀(5/1/16)
+      𝙖𝙡𝙡𝙮.⠀16yo⠀brazilian⠀faglesbo <br>
+      any⠀prns.⠀𝙨𝙢𝙖𝙡𝙡⠀𝙝𝙚/𝙨𝙝𝙚⠀pref <br>
+      shuri⠀𝙮𝙪𝙢𝙚𝙠𝙞𝙣+⠀main⠀(5/1/16)
     </td>
   </tr>
   <tr>
